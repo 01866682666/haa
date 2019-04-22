@@ -1,0 +1,207 @@
+*{margin:0;padding:0;} body {font-family:sans-serif;}
+.container{width:1140px;
+			margin:0 auto;}
+			
+			
+			
+.banner {width:100%;
+		float:left;
+		background:linear-gradient(#00000050,#00000050),
+				   linear-gradient(#00000050,#00000050),
+		url(../image/homepage.png);
+		background-size:cover;
+		background-repeat:no-repeat;
+		background-position: center;}
+
+
+.logo {width:30%;
+		float:left;
+		margin:10px;}
+
+.logon{
+		margin-left:15px;
+		padding:20px;}
+.menu {width:60%;
+		margin:10px;
+		margin-left:20px;
+		float:left;}
+
+.menu ul {list-style:none;
+		margin-left:165px;}
+
+.menu ul li {display:inline-block;
+			padding:25px;
+			margin-top:26px;
+			margin-left:20px;
+			}
+
+.menu ul li a {text-decoration:none;
+				color:#ffffff82;
+				}
+				
+.menu ul li a:hover {text-decoration:none;
+				color:white;
+				background:rgb(15, 8, 8);
+				padding:10px;
+				border:none;
+				outline:none;
+				border-radius:20px;}				
+#inty {color: white;}				
+
+
+.homed {width:600px;
+		float:left;
+		}
+
+
+.homed {width:500px;
+		margin-top:120px;
+		margin-left:-350px;}
+
+.homed h1 {padding:10px;
+		background:#1c1918;
+		color:white;
+		cursor:pointer;
+		font-size:30px;
+		letter-spacing:6px;}
+
+.homed p {padding-top:20px;
+			color:white;
+			font-size: 13px;}
+
+
+.btn {margin-top:80px;
+	padding:10px 50px;;
+	margin-bottom:100px;
+	background:transparent;
+	border:1px solid#ffffff82;
+	outline:none;}
+
+button.btn a {text-decoration:none;
+				color:white;}
+
+
+
+.btn:hover {background:#82bf8e59;
+			}
+
+
+
+
+
+.twopart {width: 100%;
+	float: left;
+	background-size: cover;
+	background-color: silver;
+	}
+
+
+
+.rectingular {margin-top: 150px;
+			margin-bottom: 100px;
+			}
+
+
+
+.paragraph {width: 30%;
+			float: left;
+			margin-left: 20px;
+			margin-bottom: 100px;
+		padding-left: 140px;}
+
+
+.paragraph h1 {font-size: 25px;
+				padding-bottom: 50px;}
+
+.paragraph p {font-size: 15px;
+				color:#00000075;}
+
+
+.carpark {width: 40%;
+		float: left;
+		margin-left:60px;
+		margin-bottom: 100px;
+	}	
+
+
+
+
+.second {width: 100%;
+		float: left;
+		background-color:#28282e}
+
+
+
+.rifat{ margin-top: 150px;
+		margin-bottom: 60px;
+		 position: relative;}		
+
+.rifat h1 {font-size: 40px;
+			margin-left:118px;
+			padding: 20px;
+		 color: white;
+		}
+
+
+
+.leftdiv {width: 40%;
+		 float: left;
+		margin-left: 90px;
+		margin-bottom: 100px;
+		display: inline-block; }
+
+
+.whatt {width: 40%;
+		float: left;
+		margin-left: 20px;
+	}
+
+
+
+
+.carfair {width: 400px;
+		height: 150px;
+		margin-left: 15px;
+		display: block;}
+
+
+
+.leftdiv p{padding: 43px;
+			color:#ffffff82; 
+		}
+
+
+
+.btn-custom { margin-top:40px;
+			padding:10px 20px;;
+			margin-bottom:30px;
+			background:transparent;
+			border:1px solid#ffffff82;
+			outline:none; 
+			margin-left: 47px;}
+
+
+
+
+.btn-custom:hover {background:#82bf8e59; cursor: pointer;}
+
+
+
+
+.last {width: 100%;
+		float: left;
+		background-color: maroon;
+	}
+
+footer p {text-align: center;
+		padding: 40px 10px;
+		color: white;
+		font-size: 10px;}	
+
+
+
+
+
+
+
+
